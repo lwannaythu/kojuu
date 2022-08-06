@@ -1,49 +1,84 @@
-{
-   "files": [    
 
 {
-         "name": "DTAC-SG-001-FREE",
-         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/DTAC-1.ovpn"
+   "files": [    
+  
+
+{
+         "name": "DTAC-TH-001 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC-1.ovpn"
       },
 {
-         "name": "DTAC-SG-002-FREE",
-         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/DTAC-2.ovpn"
+         "name": "DTAC-TH-002 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC-2.ovpn"
       },
 {
-         "name": "DTAC-SG-003-FREE",
-         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/DTAC-3.ovpn"
+         "name": "DTAC-TH-003 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC-3.ovpn"
       },
 {
-         "name": "DTAC-SG-004-FREE",
-         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/DTAC-4.ovpn"
+         "name": "DTAC-TH-004 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC-4.ovpn"
      },
 {
-         "name": "DTAC-SG-005-FREE",
-         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/DTAC-5.ovpn"
+         "name": "DTAC-TH-005 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC-5.ovpn"
       },
 {
-         "name": "TRUE-SG-001-FREE",
-         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/TRUE-1.ovpn"
+         "name": "DTAC-TH-006 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC-6.ovpn"
       },
 {
-         "name": "TRUE-SG-002-FREE",
-         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/TRUE-2.ovpn"
+         "name": "DTAC-TH-007 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC-7.ovpn"
       },
 {
-         "name": "TRUE-SG-003-FREE",
-         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/TRUE-3.ovpn"
+         "name": "DTAC-TH-008 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC-8.ovpn"
       },
 {
-         "name": "TRUE-SG-004-FREE",
-         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/TRUE-4.ovpn"
+         "name": "DTAC-TH-009 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/DTAC-9.ovpn"
      },
 {
-         "name": "TRUE-SG-005-FREE",
-         "url": "https://raw.githubusercontent.com/lwannaythu/ayemin.json/main/TRUE-4.ovpn"
+         "name": "TRUE-TH-001 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/TRUE-1.ovpn"
+      },
+{
+         "name": "TRUE-TH-002 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/TRUE-2.ovpn"
+      },
+{
+         "name": "TRUE-TH-003 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/TRUE-3.ovpn"
+      },
+{
+         "name": "TRUE-TH-004 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/TRUE-4.ovpn"
+     },
+{
+         "name": "TRUE-TH-005 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/TRUE-5.ovpn"
+      },
+{
+         "name": "TRUE-TH-006 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/TRUE-6.ovpn"
+      },
+{
+         "name": "TRUE-TH-007 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/TRUE-7.ovpn"
+      },
+{
+         "name": "TRUE-TH-008 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/TRUE-8.ovpn"
+      },
+{
+         "name": "TRUE-TH-009 FREE",
+         "url": "https://raw.githubusercontent.com/Mcminmin/minmin.json/main/TRUE-9.ovpn"
       }
+
+
 ],
-"message":"Update အဆင့်မြင့်ပြီးပါပြီ\n•All New Servers\n•Version:8\n\n•Config By:FreeNet ",
-",
-   "title":"Add Dtac&True auto update file" ,
-   "version": 8
+"message":"✅New Servers Update✅\n•🚀Add All New Servers🚀\n•Version:7\n\nဘာမွမသိတဲ့ ေမာင္ပံုည\n\nပညာသင္​ေလးပါ ခင္ဗ်\n\nအဆင္​ေျပၾကပါ​ေစ\n\nဘာမွမသိတဲ့ ေမာင္ပံုည ",
+   "title":"💙29 July 2022💙" ,
+   "version": 7
 }
