@@ -42,23 +42,7 @@
 {
          "name": "DTAC-TRUE-10 FREE",
          "url": "https://raw.githubusercontent.com/Mcminmin/microssh/main/DTAC-TRUE-10.ovpn"
-      },
-{
-         "name": "DTAC-TRUE-11 FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/microssh/main/DTAC-TRUE-11.ovpn"
-      },
-{
-         "name": "DTAC-TRUE-12 FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/microssh/main/DTAC-TRUE-12.ovpn"
-      },
-{
-         "name": "DTAC-TRUE-13 FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/microssh/main/DTAC-TRUE-13.ovpn"
-     },
-{
-         "name": "DTAC-TRUE-14 FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/microssh/main/DTAC-TRUE-14.ovpn"
-     }
+      }
 
 
 ],
