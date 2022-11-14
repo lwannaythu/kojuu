@@ -1,6 +1,6 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.8",
+"Version":"1.9",
 //link for server update
 "Url":"https://github.com/Mcminmin/microssh/blob/main/minchitthu.zip" ,
 "Changelog":"
@@ -24,8 +24,8 @@ Add function to page load
  
  
 // don't mess with the bottom
-"latestVersion": "1.0.0",
-"latestVersionCode": "1",
+"latestVersion": "2.0.0",
+"latestVersionCode": "2",
 "url": "",
  "releaseNotes": [
  "-Demo"
