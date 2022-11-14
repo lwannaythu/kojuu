@@ -1,14 +1,33 @@
-{"Version":"1.2","Url":"https://github.com/Mcminmin/mic1/blob/810229c9920ad6b58f2ce3ec2ed7ef9acf307fc8/minchitthu.zip?raw=true","Text":"📢อัพเดท วันที่ 14 November 2565
- 
-🆙รายละเอียดการอัพเดท (ล่าสุด)​
-📌อัพไฟล์ใหม่เพิ่ม
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.7",
+//link for server update
+"Url":"https://github.com/zaw1212/zaw1212/raw/main/OVPN.zip" ,
+"Changelog":"
+Latest update 11/11/2022
+Update အတြက္ လမ္းျပေပး
+ခဲ့တဲ့ အကို T.A.K အား
+ေက်းဇူးအထူးတင္ပါသည္
+အသုံးျပဳရႏိုင္ေသာ SIMမ်ား👇👇👇
 
-▶️รองรับซิม DTAC TRUE
+
+TRUE No Pro
+DTAC No Pro
+Edit the TRUE file.
+Edit DTAC files
+Add function to page load
+",
  
-📳เมื่อเห็นข้อความอัพเดทนี้
-📳กรุณากด ตกลง เพื่ออัพเดท
-📳และรอจนกว่าจะอัพเดทเสร็จ
  
-🤔ต้องการแจ้งปัญหาต่างๆ
-🤔ต้องการสอบถามรายละเอียด
-🤔กรุณาทักแชท"}
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
