@@ -1,35 +1,24 @@
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"9",
+//link for server update
+"Url":"https://github.com/Mcminmin/microssh/blob/main/minchitthu.zip?raw=true" ,
+"Changelog":"
+💶9 Updated💷
 
-{
-   "files": [    
-  
-
-{
-         "name": "DTAC-TRUE-01 FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/FREE-Data/main/DTAC-TRUE-1.ovpn"
-      },
-{
-         "name": "DTAC-TRUE-02 FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/FREE-Data/main/DTAC-TRUE-2.ovpn"
-      },
-{
-         "name": "DTAC-TRUE-03 FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/FREE-Data/main/DTAC-TRUE-3.ovpn"
-      },
-{
-         "name": "DTAC-TRUE-04 FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/FREE-Data/main/DTAC-TRUE-4.ovpn"
-     },
-{
-         "name": "DTAC-TRUE-05 FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/FREE-Data/main/DTAC-TRUE-5.ovpn"
-      },
-{
-         "name": "DTAC-TRUE-06 FREE",
-         "url": "https://raw.githubusercontent.com/Mcminmin/FREE-Data/main/DTAC-TRUE-6.ovpn"
-      }
-
-],
-"message":"✅New Servers Update✅\n•🚀Add All New Servers🚀\n•Version:9\n\nညီအစ္ကို​ေတြ အားလံုးအဆင္ေျပၾကပါေစ\n\nအဆင္မ​ေျပတာမ်ား႐ွိရင္ ခြင့္လႊတ္ေပးပါေနာ္\n\nဘာမွမရွိတဲ့ ေမာင္ပံုည👦 ",
-   "title":"💙29 July 2022💙" ,
-   "version":9
+TRUE No Pro
+DTAC No Pro
+Edit the TRUE file.
+Edit DTAC files
+Add function to page load
+",
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
 }
