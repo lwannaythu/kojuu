@@ -1,24 +1,14 @@
-{
-// version for updating, if there is an update, need to change more numbers than before
-"Version":"9",
-//link for server update
-"Url":"https://github.com/Mcminmin/microssh/blob/main/minchitthu.zip?raw=true" ,
-"Changelog":"
-💶9 Updated💷
+{"Version":"1.1","Url":"https://github.com/Mcminmin/microssh/blob/main/minchitthu.zip?raw=true","Text":"📢อัพเดท วันที่ 14 November 2565
+ 
+🆙รายละเอียดการอัพเดท (ล่าสุด)​
+📌อัพไฟล์ใหม่เพิ่ม
 
-TRUE No Pro
-DTAC No Pro
-Edit the TRUE file.
-Edit DTAC files
-Add function to page load
-",
+▶️รองรับซิม DTAC TRUE
  
+📳เมื่อเห็นข้อความอัพเดทนี้
+📳กรุณากด ตกลง เพื่ออัพเดท
+📳และรอจนกว่าจะอัพเดทเสร็จ
  
-// don't mess with the bottom
-"latestVersion": "1.0.0",
-"latestVersionCode": "1",
-"url": "",
- "releaseNotes": [
- "-Demo"
-  ]
-}
+🤔ต้องการแจ้งปัญหาต่างๆ
+🤔ต้องการสอบถามรายละเอียด
+🤔กรุณาทักแชท"}
