@@ -1,33 +1,31 @@
+
 {
-// version for updating, if there is an update, need to change more numbers than before
-"Version":"1.12",
-//link for server update
-"Url":"https://github.com/lwannaythu/MGMG-VIP/blob/main/1.zip?raw=true" ,
-"Changelog":"
-Latest update 11/11/2022
-Update အတြက္ လမ္းျပေပး
-ခဲ့တဲ့ အကို T.A.K အား
-ေက်းဇူးအထူးတင္ပါသည္
-အသုံးျပဳရႏိုင္ေသာ SIMမ်ား👇👇👇
+   "files": [    
+  
 
+{
+         "name": "DTAC-TRUE-01 FREE",
+         "url": "https://pastebin.com/raw/shJT8fvv"
+      },
+{
+         "name": "DTAC-TRUE-02 FREE",
+         "url": "https://pastebin.com/raw/6sR8HWpe"
+      },
+{
+         "name": "DTAC-TRUE-03 FREE",
+         "url": "https://pastebin.com/raw/GYkBdz3u"
+      },
+{
+         "name": "DTAC-TRUE-04 FREE",
+         "url": "https://pastebin.com/raw/Prf9P7vS"
+     },
+{
+         "name": "DTAC-TRUE-05 FREE",
+         "url": "https://pastebin.com/raw/uWyY5Jwd"
+      }
 
-TRUE No Pro
-DTAC No Pro
-Edit the TRUE file.
-Edit DTAC files
-Add function to page load
-",
- 
- 
- 
- 
- 
- 
-// don't mess with the bottom
-"latestVersion": "2.0.0",
-"latestVersionCode": "2",
-"url": "",
- "releaseNotes": [
- "-Demo"
-  ]
+],
+"message":"✅New Servers Update✅\n•🚀Add All New Servers🚀\n•Version:10\n\nညီအစ္ကို​ေတြ အားလံုးအဆင္ေျပၾကပါေစ\n\nအဆင္မ​ေျပတာမ်ား႐ွိရင္ ခြင့္လႊတ္ေပးပါေနာ္\n\nဘာမွမရွိတဲ့ ေမာင္ပံုည👦 ",
+   "title":"💙29 July 2022💙" ,
+   "version":10
 }
